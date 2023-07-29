@@ -1,0 +1,20 @@
+/* Cambiar color de fuente en todas las etiquetas de párrafo */
+p {
+    color: blue;
+}
+
+/* Cambiar color de fondo de etiquetas para encabezados h1 */
+h1 {
+    background-color: yellow;
+}
+
+/* Cambiar el tamaño de fuente para los elemento del tipo ul */
+ul {
+    font-size: 24px;
+}
+
+/* Cambiar el color de fondo y el color del texto para los elementos del tipo label */
+label {
+    background-color: lightblue;
+    color: white;
+}
